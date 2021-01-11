@@ -72,5 +72,5 @@
     "prepublish": "npm run build",
     "watch": "set NODE_ENV=test&& webpack --watch"
   },
-  "version": "0.2.0"
+  "version": "0.0.1"
 }
